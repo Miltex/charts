@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  appsimples:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2021-06-27T00:15:53.260980026-03:00"
+    description: A Helm chart for Kubernetes
+    digest: ba076c31be76a9410c6567e2a92ad233c8fe21ada784a6da1f7020806e393b70
+    name: appsimples
+    type: application
+    urls:
+    - appsimples-0.1.0.tgz
+    version: 0.1.0
+  python-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-27T00:15:53.265199748-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 6f12a216053e260e55ee1a891a975708da668f3bec7435a799aba446d8e07d56
+    name: python-api
+    type: application
+    urls:
+    - python-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-27T00:15:53.256319617-03:00"
