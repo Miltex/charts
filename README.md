@@ -19,5 +19,5 @@ SK=yS6xsprA0gTuBWO_vV2JVQ
 CSRF_ENABLED=True
 BOOTSTRAP_FONTAWESOME = True
 RESTPLUS_MASK_SWAGGER = False
-### In production, set to a higher number, like 31556926
+#### In production, set to a higher number, like 31556926
 SEND_FILE_MAX_AGE_DEFAULT=0
