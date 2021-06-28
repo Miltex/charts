@@ -21,3 +21,8 @@ BOOTSTRAP_FONTAWESOME = True
 RESTPLUS_MASK_SWAGGER = False
 #### In production, set to a higher number, like 31556926
 SEND_FILE_MAX_AGE_DEFAULT=0
+
+## Using API
+
+http://ip:port/tasks/doc
+http://ip:port/users/doc
