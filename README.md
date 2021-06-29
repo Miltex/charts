@@ -1,7 +1,12 @@
-# Chart to python api and postgres
+# GitHub Charts to install in kubernetes
 
-Install Python API Charts
+## Install Python API Charts
 
+### How to install:
+
+helm repo add miltex https://miltex.github.io/charts/
+
+helm install pythonapi miltex/python-api-postgres
 
 ## Using API
 

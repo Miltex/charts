@@ -3,12 +3,12 @@ entries:
   python-api-postgres:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-29T15:25:25.563554023-03:00"
+    created: "2021-06-29T15:39:27.031929436-03:00"
     description: A Helm chart for Kubernetes
-    digest: 333a29565a1bea003e469b8fb0afa9106a2140a31a3c1852bd1661632207d9be
+    digest: aa219e98bc0d83535f32e4d3cec4ad1c48b50ec87e2391ec0e6cd19c3c2ea59e
     name: python-api-postgres
     type: application
     urls:
     - python-api-postgres-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-29T15:25:25.561862695-03:00"
+generated: "2021-06-29T15:39:27.030557012-03:00"
